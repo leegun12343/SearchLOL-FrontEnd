@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "NanumGothic";
+  font-weight: 400;
+  src: url("/fonts/NanumGothic.ttf") format("truetype");
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  line-height: 1.6;
+  font-size: 18px;
+  font-family: "NanumGothic";
+  font-weight: 400;
+}
